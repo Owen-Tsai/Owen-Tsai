@@ -5,6 +5,8 @@ Hi there! I'm Owen, a web developer focus on front end techniques & UI design.
 I'm currently employed. But I'm always seeking challenges.
 You can contact me via [owentsai.v@gmail.com](mailto://owentsai.v@gmail.com).
 
+And here is [my website](https://pdpcy.club/) (posts written in simplified Chinese).
+
 ## Fun facts about me
 
 - :video_game: I play video games a lot, from the most famous titles to the indie ones. I even tried to design and develop several prototypes.
