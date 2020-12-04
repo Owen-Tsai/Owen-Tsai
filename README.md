@@ -18,6 +18,6 @@ And here is [my website](https://pdpcy.club/) (posts written in simplified Chine
 - :books: Reading *And Then There Were None* By **Agatha Christie**.
 - :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *World of Warcraft*.
 - :keyboard: Creating *YoUI*, a vue 3 UI component library.
-- :movie_camera: Watching *24 Season 5* starred by **Kiefer Sutherland**.
+- :movie_camera: Watching *24 Season 6* starred by **Kiefer Sutherland**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
