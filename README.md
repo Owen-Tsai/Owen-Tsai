@@ -17,7 +17,7 @@ And here is [my website](https://pdpcy.club/) (posts written in simplified Chine
 
 - :books: Reading *And Then There Were None* By **Agatha Christie**.
 - :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *World of Warcraft*.
-- :keyboard: Creating *YoUI*, a vue 3 UI component library.
-- :movie_camera: Watching *True Detective*.
+- :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
+- :movie_camera: Watching *The Handmaid's Tale*.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
