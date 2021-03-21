@@ -11,11 +11,11 @@ And here is [my website](https://pdpcy.club/) (posts written in simplified Chine
 
 - :video_game: I play video games a lot, from the most famous titles to the indie ones. I even tried to design and develop several prototypes.
 - :cat2: I love cats.
-- :grinning: I speak English and Chinese. I provide Chinese localization for some indie game developers and technical documentation.
+- :grinning: I speak English and Chinese. I provide Chinese localization for some indie games and technical documents.
 
 ## Recent Status
 
-- :books: Reading *And Then There Were None* By **Agatha Christie**.
+- :books: Reading *The Da Vinci Code* By **Dan Brown**.
 - :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *World of Warcraft*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
 - :movie_camera: Watching *The Handmaid's Tale*.
