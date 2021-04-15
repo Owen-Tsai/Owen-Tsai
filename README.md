@@ -1,4 +1,4 @@
-> update: I realized that I crushed on her. Gotta learn to be romatic. Could be a little hear for a programmer, so I'm gonna left my code here and do what I have to do. Oh god, never got the same feeling in my whole life.
+> update: I realized that I crushed on her. Gotta learn to be romantic. Could be a little hard for a programmer, so I'm gonna left my code here and do what I have to do. Oh god, never got the same feeling in my whole life.
 
 ## Yet another web developer
 
