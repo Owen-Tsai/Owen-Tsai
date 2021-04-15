@@ -1,3 +1,5 @@
+> update: I realized that I crushed on her. Gotta learn to be romatic. Could be a little hear for a programmer, so I'm gonna left my code here and do what I have to do. Oh god, never got the same feeling in my whole life.
+
 ## Yet another web developer
 
 Hi there! I'm Owen, a web developer focus on front end techniques & UI design.
