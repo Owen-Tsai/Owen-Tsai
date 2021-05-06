@@ -1,4 +1,4 @@
-> update: I realized that I crushed on her. Gotta learn to be romantic. Could be a little hard for a programmer, so I'm gonna left my code here and do what I have to do. Oh god, never got the same feeling in my whole life.
+> update: I'm currently trying to ask her to be my girlfriend. Might be slow to respond.
 
 ## Yet another web developer
 
