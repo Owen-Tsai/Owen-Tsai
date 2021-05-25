@@ -20,6 +20,6 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 - :books: Reading *The Da Vinci Code* By **Dan Brown**.
 - :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *World of Warcraft*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
-- :movie_camera: Watching *The Expanse*.
+- :movie_camera: Watching *Why Women Kill*.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
