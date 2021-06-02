@@ -1,4 +1,4 @@
-> update: I'm currently trying to ask her to be my girlfriend. Might be slow to respond.
+> update: Just met the love of my life. Might be slow to respond.
 
 ## Yet another web developer
 
@@ -20,6 +20,6 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 - :books: Reading *The Da Vinci Code* By **Dan Brown**.
 - :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *World of Warcraft*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
-- :movie_camera: Watching *Why Women Kill*.
+- :movie_camera: Watching *白夜追凶*.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
