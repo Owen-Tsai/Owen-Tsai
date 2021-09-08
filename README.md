@@ -18,7 +18,7 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 ## Recent Status
 
 - :books: Reading *The Da Vinci Code* By **Dan Brown**.
-- :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *World of Warcraft*.
+- :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *Ace Attorney 3*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
 - :movie_camera: Watching *Firefly*.
 
