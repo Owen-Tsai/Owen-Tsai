@@ -2,7 +2,7 @@
 
 ## Yet another web developer
 
-Hi there! I'm Owen, a web developer focus on front end techniques & UI design.
+Hi there! I'm Owen, a web developer with focusing on front end techniques & UI design.
 
 I'm currently employed. But I'm always seeking challenges.
 You can contact me via [owentsai.v@gmail.com](mailto://owentsai.v@gmail.com).
@@ -20,6 +20,6 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 - :books: Reading *The Da Vinci Code* By **Dan Brown**.
 - :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *Ace Attorney 3*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
-- :movie_camera: Watching *Firefly*.
+- :movie_camera: Watching *POI Season 3*.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
