@@ -17,9 +17,9 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 
 ## Recent Status
 
-- :books: Reading *The Da Vinci Code* By **Dan Brown**.
-- :video_game: Playing *The Legend of Zelda: Breath of the Wild* and *Ace Attorney 3*.
+- :books: I'm not reading at the moment. Any recommendation?
+- :video_game: Playing *Cyberpunk 2077*, *Ace Attorney 3* and *Mount & Blade 2: Bannerlord*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
-- :movie_camera: Watching *POI Season 3*.
+- :movie_camera: Watching *Yellow Stone*.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
