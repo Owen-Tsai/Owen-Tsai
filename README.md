@@ -1,5 +1,3 @@
-> update: Just met the love of my life. Might be slow to respond.
-
 ## Yet another web developer
 
 Hi there! I'm Owen, a web developer with focusing on front end techniques & UI design.
@@ -17,9 +15,9 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 
 ## Recent Status
 
-- :books: I'm not reading at the moment. Any recommendation?
-- :video_game: Playing *Cyberpunk 2077*, *Ace Attorney 3* and *Mount & Blade 2: Bannerlord*.
+- :books: Well I'm reading the source code of vue 3. But I'm not reading any books at the moment. Any recommendation?
+- :video_game: Playing *Red Dead Redemption 2*, *Ace Attorney 3*, *Mount & Blade 2: Bannerlord* and *Valheim*. That's indeed a long list.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
-- :movie_camera: Watching *Yellow Stone*.
+- :movie_camera: Watching *Yellow Stone* and *Dark*.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
