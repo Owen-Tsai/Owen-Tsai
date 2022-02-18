@@ -15,9 +15,8 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 
 ## Recent Status
 
-- :books: Well I'm reading the source code of vue 3. But I'm not reading any books at the moment. Any recommendation?
-- :video_game: Playing *Red Dead Redemption 2*, *Ace Attorney 3* and *Mount & Blade 2: Bannerlord*.
+- :video_game: Playing *Red Dead Redemption 2*, *Ace Attorney 3* and *Kingdom Come: Deliverance*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
-- :movie_camera: Watching *The Expanse S6* and *Dark*.
+- :movie_camera: I'm not following any series right now. Please recommend.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
