@@ -11,7 +11,7 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 
 - :video_game: I play video games a lot, from the most famous titles to the indie ones. I even tried to design and develop several prototypes.
 - :cat2: I love cats.
-- :grinning: I speak English and Chinese. I provide Chinese localization for some indie games and technical documents.
+- :grinning: I speak English and Chinese. I helped with Chinese localization for some indie games.
 
 ## Recent Status
 
