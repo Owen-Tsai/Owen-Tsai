@@ -15,7 +15,7 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 
 ## Recent Status
 
-- :video_game: Playing *Red Dead Redemption 2*, *Ace Attorney 3* and *Kingdom Come: Deliverance*.
+- :video_game: Playing *Red Dead Redemption 2*, *Ace Attorney 3* and *Elden Ring*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
 - :movie_camera: I'm not following any series right now. Please recommend.
 
