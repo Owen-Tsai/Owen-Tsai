@@ -1,11 +1,9 @@
 ## Yet another web developer
 
-Hi there! I'm Owen, a web developer with focusing on front end techniques & UI design.
+Hi there! I'm Owen, another front-end developer.
 
 I'm currently employed. But I'm always seeking challenges.
 You can contact me via [owentsai.v@gmail.com](mailto://owentsai.v@gmail.com).
-
-And here is [my website](https://mmcai.top/) (posts written in simplified Chinese).
 
 ## Fun facts about me
 
@@ -14,8 +12,8 @@ And here is [my website](https://mmcai.top/) (posts written in simplified Chines
 
 ## Recent Status
 
-- :video_game: Playing *Red Dead Redemption 2*, *Ace Attorney 3* and *Outer Wilds*.
+- :video_game: Playing *As Dusk Falls*, *Halo Infinite* and *Hitman III*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
-- :movie_camera: Watching *Love, Death, Robots S3* and *Stranger Things S4*.
+- :movie_camera: Ready for the *Cyberpunk: Edgerunners*.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
