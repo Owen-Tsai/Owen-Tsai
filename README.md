@@ -12,7 +12,7 @@ You can contact me via [owentsai.v@gmail.com](mailto://owentsai.v@gmail.com).
 
 ## Recent Status
 
-- :video_game: Playing *As Dusk Falls*, *Halo Infinite* and *Hitman III*.
+- :video_game: Playing *Death Stranding*, *Halo Infinite* and *Hitman III*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
 - :movie_camera: Ready for the *Cyberpunk: Edgerunners*.
 
