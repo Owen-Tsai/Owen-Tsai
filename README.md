@@ -12,7 +12,7 @@ You can contact me via [owentsai.v@gmail.com](mailto://owentsai.v@gmail.com).
 
 ## Recent Status
 
-- :video_game: Playing *Persona 5 Royal*, *A Plague Tale: Requiem* and *Hitman III*.
+- :video_game: Playing *Persona 5 Royal*, *Days Gone* and *Hitman III*.
 - :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
 - :movie_camera: Watching *The Wire*.
 
