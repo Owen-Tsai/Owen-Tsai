@@ -12,8 +12,6 @@ You can contact me via [owentsai.v@gmail.com](mailto://owentsai.v@gmail.com).
 
 ## Recent Status
 
-- :video_game: Playing *Persona 5 Royal*, *Days Gone* and *Hitman III*.
-- :keyboard: Creating *Salmon UI*, a vue 3 UI component library.
-- :movie_camera: Watching *The Wire*.
+Check on [my site](https://owen-tsai.github.io/about).
 
 <img src="https://github-readme-stats.vercel.app/api?username=Owen-Tsai" alt="Owen's github stats" />
