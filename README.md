@@ -3,11 +3,11 @@
 Hi there! I'm Owen, another front-end developer.
 
 I'm currently employed. But I'm always seeking challenges.
-You can contact me via [owentsai.v@gmail.com](mailto://owentsai.v@gmail.com).
+You can contact me via [owentsai.v@gmail.com](mailto:owentsai.v@gmail.com).
 
 ## Fun facts about me
 
-- :video_game: I play video games a lot, from the most famous titles to the indie ones. I even tried to design and develop several prototypes.
+- :video_game: I play video games a lot, from the most famous titles to the indie ones. I even designed&developed several prototypes.
 - :cat2: I love cats.
 
 ## Recent Status
