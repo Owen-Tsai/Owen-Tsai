@@ -1,8 +1,8 @@
 ## Yet another web developer
 
 Hi there! I'm Owen, another front-end developer.
+Outside of coding, I spend a lot of time playing video games. My collection spans almost all genres, from famous triple-A titles to indie gems. I have even contributed to Chinese localization efforts for a indie game!
 
-I'm currently employed. But I'm always seeking challenges.
 You can contact me via [owentsai.v@gmail.com](mailto:owentsai.v@gmail.com).
 
 ## Fun facts about me
